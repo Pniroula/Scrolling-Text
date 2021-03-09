@@ -1,1 +1,1 @@
-![Screenshot](challenge.png)
+![Screenshot](homework.png)
