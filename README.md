@@ -1,3 +1,2 @@
-![Screenshot](Scrolling1.png)
-Vedio
-![GIF](Video.gif)
+VIDEO
+![GIF](scrollvid.gif)
